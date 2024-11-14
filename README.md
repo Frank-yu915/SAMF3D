@@ -1,1 +1,3 @@
 # SAMF3D
+
+Our code will soon be available. Please stay tuned...
